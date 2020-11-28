@@ -3,7 +3,7 @@ title: "[Spring] 스프링 AOP 초간단 예제 (애노테이션 기반)"
 author: Bae Sangwoo
 date: 2020-01-04 23:33:00 +0900
 categories: [Spring, Core]
-tags: [Spring, AOP]
+tags: [spring, aop]
 math: true
 ---
 

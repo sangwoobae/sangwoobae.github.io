@@ -3,7 +3,7 @@ title: "[Spring] 스프링프레임워크 Bean 등록과 사용의 변천사"
 author: Bae Sangwoo
 date: 2020-01-02 23:37:00 +0900
 categories: [Spring, Core]
-tags: [Spring, Bean]
+tags: [spring, bean]
 math: true
 ---
 
