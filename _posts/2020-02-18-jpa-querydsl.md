@@ -4,7 +4,6 @@ author: Bae Sangwoo
 date: 2020-02-18 00:18:00 +0900
 categories: [JPA]
 tags: [jpa, querydsl]
-math: true
 ---
 
 # EntityListener

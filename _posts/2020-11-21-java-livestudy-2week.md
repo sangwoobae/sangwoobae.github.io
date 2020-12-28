@@ -4,7 +4,6 @@ author: Bae Sangwoo
 date: 2020-11-21 22:04:00 +0900
 categories: [Java, Live Study]
 tags: [java, livestudy, whiteship, type, variable, array]
-math: true
 ---
 
 

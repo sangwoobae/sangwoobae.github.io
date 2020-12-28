@@ -4,7 +4,6 @@ author: Bae Sangwoo
 date: 2020-12-26 10:22:00 +0900
 categories: [Java, Live Study]
 tags: [java, livestudy, whiteship, class]
-math: true
 ---
 
 

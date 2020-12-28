@@ -4,7 +4,6 @@ author: Bae Sangwoo
 date: 2020-01-02 23:37:00 +0900
 categories: [Spring, Core]
 tags: [spring, bean]
-math: true
 ---
 
 요즘엔 [스프링 부트](https://docs.spring.io/spring-boot/docs/current/gradle-plugin/reference/htmlsingle/){:target="_blank" rel="noopener"}를 주로 사용하기 때문에 XML로 스프링 어플리케이션을 설정할 일이 전혀 없지만 

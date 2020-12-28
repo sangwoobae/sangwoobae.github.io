@@ -4,7 +4,6 @@ author: Bae Sangwoo
 date: 2020-02-06 22:17:00 +0900
 categories: [JPA]
 tags: [jpa, entity]
-math: true
 ---
 
 단일 데이터 소스를 사용하고 특별한 조건이 없으면서 **스프링 부트**를 사용한다면 JPA를 설정하는 것은 매우 간편합니다.

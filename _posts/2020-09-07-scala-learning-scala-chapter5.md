@@ -4,7 +4,6 @@ author: Bae Sangwoo
 date: 2020-09-07 10:20:00 +0900
 categories: [Scala, Learning Scala]
 tags: [scala, learningscala]
-math: true
 ---
 
 ![](https://t1.daumcdn.net/cfile/tistory/27742D3D58F710DA32){:width="300px"}

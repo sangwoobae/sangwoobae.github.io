@@ -4,7 +4,6 @@ author: Bae Sangwoo
 date: 2020-01-12 18:26:00 +0900
 categories: [JPA]
 tags: [jpa, persistence]
-math: true
 ---
 
 먼저 JPA란 [Java Persistence API](https://en.wikipedia.org/wiki/Jakarta_Persistence){:target="_blank"}의 약자로 자바 ORM 기술에 대한 API 표준 명세이며 대표적인 구현체로는 [Hibernate](https://hibernate.org/){:target="_blank"}가 있습니다.

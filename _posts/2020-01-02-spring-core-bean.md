@@ -4,7 +4,6 @@ author: Bae Sangwoo
 date: 2020-01-04 23:33:00 +0900
 categories: [Spring, Core]
 tags: [spring, aop]
-math: true
 ---
 
 ![](/assets/img/posts/2020-01-02-spring-core-aop/aop-img.jpg)

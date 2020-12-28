@@ -4,7 +4,6 @@ author: Bae Sangwoo
 date: 2020-11-17 21:18:00 +0900
 categories: [Java, Live Study]
 tags: [java, livestudy, whiteship, jvm]
-math: true
 ---
 
 
