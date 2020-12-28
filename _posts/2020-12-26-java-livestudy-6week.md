@@ -3,7 +3,7 @@ title: "[Live Study] 6주차 과제: 상속"
 author: Bae Sangwoo
 date: 2020-12-26 10:22:00 +0900
 categories: [Java, Live Study]
-tags: [java, livestudy, whiteship, class]
+tags: [java, livestudy, whiteship, inheritance]
 ---
 
 
