@@ -47,6 +47,13 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
     margin-bottom: 2.5rem;
     @include align-center;
   }
+
+  h1:before {
+    content: "#";
+    color: var(--header-prefix);
+    font-weight: 400;
+    margin-right: 10px;
+  }
 }
 
 .post-tail-wrapper {
