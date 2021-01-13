@@ -4,6 +4,8 @@ author: Bae Sangwoo
 date: 2020-12-07 22:57:00 +0900
 categories: [Java, Live Study]
 tags: [java, livestudy, whiteship, operator]
+image: https://user-images.githubusercontent.com/12427330/103539943-44dc6c00-4edc-11eb-8dbb-9d6f3bacf911.png
+redirect: Live-Study-4주차-과제-제어문
 ---
 
 

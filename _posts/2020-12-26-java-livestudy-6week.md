@@ -4,6 +4,7 @@ author: Bae Sangwoo
 date: 2020-12-26 10:22:00 +0900
 categories: [Java, Live Study]
 tags: [java, livestudy, whiteship, inheritance]
+image: https://user-images.githubusercontent.com/12427330/103539943-44dc6c00-4edc-11eb-8dbb-9d6f3bacf911.png
 ---
 
 
