@@ -90,15 +90,6 @@ list.get(0);
 
 이 예외는 `RuntimeException`을 상속하고 있고 이름답게 컴파일 시점에 처리를 강제하지 않기 때문에 확인이 어렵고 런타임 시점에 예외를 발생시켜 장애를 유발할 수 있습니다.
 
-## 비교
-
-|- |Checked Exception |Unchecked Exception |
-|:---|:---|:---|
-|확인 가능 시점|컴파일 시점|런타임 시점|
-|구분|`RuntimeException`을 상속하지 않은 예외|`RuntimeException`과 이를 상속한 예외|
-|예외 처리|명시적인 예외 처리가 강제됨|예외 처리가 강제되지 않음|
-|트랜잭션|예외 발생시 롤백되지 않음|예외 발생시 롤백됨|
-
 
 # 예외 처리를 하는 이유
 
@@ -580,7 +571,7 @@ catch (SQLException e) {
 
 예외를 처리하기 쉽게 포장하기 위해 전환할 수 있습니다.
 
-예를 들어 Checked Exception을 잡아서 Unchecked Exception으로 던져서 해당 메소드를 사용 하는 곳에서 일일히 에러 처리를 할 필요가 없으며 트랜잭션 롤백도 가능하도록 할 수 있습니다.
+예를 들어 Checked Exception을 잡아서 Unchecked Exception으로 던져서 해당 메소드를 사용 하는 곳에서 일일히 에러 처리를 할 필요가 없습니다.
 
 ```java
 private void process() {
