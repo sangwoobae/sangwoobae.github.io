@@ -19,7 +19,7 @@ image: https://user-images.githubusercontent.com/12427330/103539943-44dc6c00-4ed
 
 # 학습 목표
 
-자바의 Input과 Out에 대해 학습하세요.
+자바의 Input과 Output에 대해 학습하세요.
 
 
 # 스트림(Stream), 버퍼(Buffer), 채널(Channel) 기반의 I/O
