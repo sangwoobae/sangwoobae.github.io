@@ -3,7 +3,7 @@ title: "[Live Study] 15주차 과제: 람다식"
 author: Bae Sangwoo
 date: 2021-03-06 16:11:00 +0900
 categories: [Java, Live Study]
-tags: [java, livestudy, whiteship, generic]
+tags: [java, livestudy, whiteship, lambda]
 image: https://user-images.githubusercontent.com/12427330/103539943-44dc6c00-4edc-11eb-8dbb-9d6f3bacf911.png
 ---
 
